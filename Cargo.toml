@@ -2,6 +2,10 @@
 name = "pty-exec"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+license-file = "LICENSE.md"
+keywords = ["pty", "tty", "term", "terminal", "xterm"]
+exclude = [".idea/"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
